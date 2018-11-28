@@ -1,4 +1,4 @@
-# 2018-in press
+## 2018-in press
 
 Bürki, A., Frossard, J., & Renaud, O. (in press). Accounting for stimulus and participant effects in Event-related potential analyses to increase the replicability of studies. Journal of Neuroscience Methods.
 
@@ -14,7 +14,7 @@ Fargier, R., Bürki, A., Pinet, S., Alario, F.-X., & Laganaro, M. (2018). Word o
 
  
 
-# 2017
+## 2017
 
 Bürki, A. (2017). Electrophysiological characterization of facilitation and interference in the picture-word interference paradigm. Psychophysiology, 54, 1370-1392.
 
@@ -22,13 +22,13 @@ Bürki, A. (2017). Differences in processing times for distractors and pictures 
 
  
 
-# 2016
+## 2016
 
 Bürki, A., Sadat, J., Dubarry, A.-S., & Alario, F.-X. (2016). Sequential processing during noun phrase production. Cognition, 146, 90-99.
 
  
 
-# 2015
+## 2015
 
 Bürki, A., Frauenfelder, U.-H., & Alario, F.-X. (2015). On the resolution of phonological constraints in spoken production: Acoustic and response time evidence. Journal of the Acoustical Society of America, 138, EL429.
 
@@ -36,7 +36,7 @@ Bürki, A. & Pellet-Cheneval, P., & Laganaro, M. (2015). : Do speakers have acce
 
  
 
-# 2014
+## 2014
 
 Bürki, A. & Laganaro, M. (2014). Tracking the time course of multi-word noun phrase production with ERPs or on when (and why) cat is faster than the big cat. Frontiers in Language Sciences.
 
@@ -46,13 +46,13 @@ Valente, A. , Bürki, A., & Laganaro, M. (2014).  ERP correlates of word product
 
  
 
-# 2013
+## 2013
 
 Racine, I., Bürki, A., & Spinelli, E. (2013). The implication of spelling and frequency in the recognition of phonological variants: Evidence from pre-readers and readers. Language and Cognitive Processes, 29, 893-898.
 
  
 
-# 2012
+## 2012
 
 Bürki, A., Spinelli, E., & Gaskell, G. (2012). A written word is worth a thousand spoken words: The influence of spelling on spoken-word production. Journal of Memory and Language , 67, 449-467.
 
@@ -62,7 +62,7 @@ Bürki, A. & G. Gaskell (2012). Lexical representation of schwa words: two macke
 
  
 
-# 2011
+## 2011
 
 Bürki, A., Alario, F.-X. & Frauenfelder, U. (2011). Lexical representation of phonological variants: Evidence from pseudohomophone effects in different regiolects. Journal of Memory and Language , 64, 424-442. 
 
@@ -72,7 +72,7 @@ Bürki, A., Ernestus, M., C., Gendrot, C, Fougeron & Frauenfelder, U. (2011). Wh
 
  
 
-# 2010
+## 2010
 
 Bürki, A., Ernestus, M. & Frauenfelder, U. (2010). Is there only one ‘fenêtre’ in the production lexicon? On-line evidence about the nature of phonological representations. Journal of Memory and Language , 62, 421-437.
 
