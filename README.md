@@ -1,3 +1,7 @@
+# Peer-reviewd articles
+
+
+
 ## 2018-in press
 
 Bürki, A., Frossard, J., & Renaud, O. (in press). Accounting for stimulus and participant effects in Event-related potential analyses to increase the replicability of studies. Journal of Neuroscience Methods.
