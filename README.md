@@ -6,7 +6,7 @@
 
 Bürki, A., Frossard, J., & Renaud, O. (in press). Accounting for stimulus and participant effects in Event-related potential analyses to increase the replicability of studies. Journal of Neuroscience Methods.
 
-Bürki, A., Besana, T., Degiorgi, G., Gilbert, R. & Alario, F.-X. (in press). Representation and selection of determiners with phonological variants. Journal of EXperimentla PSychology: Learning, Memory, and Cognition. (data & scripts: https://osf.io/zxavm/)
+Bürki, A., Besana, T., Degiorgi, G., Gilbert, R. & Alario, F.-X. (in press). Representation and selection of determiners with phonological variants. *_Journal of Experimental Psychology: Learning, Memory, and Cognition._* (data & scripts: https://osf.io/zxavm/)
 
 Bürki, A. (2018). Variation in the speech signal as a window into the cognitive architecture of language production. Psychonomic Bulletin & Review.
 
