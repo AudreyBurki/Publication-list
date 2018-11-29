@@ -1,4 +1,4 @@
-# Peer-reviewd articles
+# Peer-reviewed articles
 (A subset of papers can be found on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail me if you cannot find the one you are looking for. The datasets and code for my most recent studies are on [OSF](https://osf.io/c6v0t/), I will add more in the (hopefully) near future
 
 
@@ -81,3 +81,79 @@ Bürki, A., Ernestus, M., C., Gendrot, C, Fougeron & Frauenfelder, U. (2011). Wh
 Bürki, A., Ernestus, M. & Frauenfelder, U. (2010). Is there only one ‘fenêtre’ in the production lexicon? On-line evidence about the nature of phonological representations. _**Journal of Memory and Language_**, 62, 421-437.
 
  
+# Conferences, seminars, workshops
+
+Bürki, A. (2017). Workshop on Conversational speech and lexical representations, Nijmegen, The Netherlands, June 8-9, 2017.
+
+Bürki, A. (2017). Usage frequency in spoken word processing.Freiburg, Germany, May 29-30, 2017.
+
+Bürki, A. (2017). Interface oral/écrit, ou le rôle du langage écrit dans la production et la reconnaissance des mots. Journées d’Études Toulousaines, Toulouse, France, May 18-19, 2017.
+
+Viebahn, M., Dufour, S., & Bürki, A. (2017). Imitation of sublexical speech segments.Winterschool Speech production and perception,Chorin, Germany.
+
+Bürki, A. (2016). Electrophysiological correlates of interference effects in the picture-word interference paradigm. Society for the Neurobiology of Language Conference, London, UK.
+
+Viebahn, A. & Bürki, A. (2016).  Subjective frequency in the processing and representation of French pronunciation variants. AMLAP, San Sebastian, Spain.
+
+McQueen, J. M., Viebahn, M., Ernestus, M., Frauenfelder, U., & Bürki, A. (2016). How much does orthographic exposure influence processing of schwa in novel spoken words? International meeting of the Psychonomic Society, Grenada, Spain.
+
+Fargier, R., Bürki, A., Valente, A., Pinet, S., Alario, F.-X., & Laganaro, M. (2016). Using word onset phonetic properties to track EEG motor artefact signature. Human Brain Mapping, Geneva, Switzerland. 
+
+Viebahn, M., Bürki, A., McQueen, J. M., Ernestus, M., & Frauenfelder, U. (2015). Learning multiple pronunciation variants of French novel words with orthographic forms. Memory consolidation and word learning workshop, Nijmegen, The Netherlands.
+
+Bürki, A. (2015). Individual differences in reading times and naming speed modulate sensitivity to distractors in the picture-word interference paradigm. Individual differences in language processing across the adult life span Workshop, Nijmegen, The Netherlands.
+
+Bürki, A. (2015). Production et reconnaissance des mots avec schwa en français: Données psycholinguistiques. Invited talk, Journées PFC, Vienna, Austria.
+
+Bürki, A., Laganaro, M., Sadat, J. & Alario, F.-X. (201 4). Time course of noun phrase production by German-French bilinguals.  Society for the Neurobiology of language, Amsterdam.
+
+Bürki, A., Pellet P., & Laganaro, M. (201 4). Tracking the time course of phonetic encoding with ERPs: Legal versus illegal syllables. IWLP 2014, Geneva.
+
+Bürki, A., Laganaro, M., Sadat, J. & Alario, F.-X. (201 4). Phonological encoding of noun phrase production by German-French bilinguals.  IWLP 2014, Geneva.
+
+Bürki , A. (201 4). Processes and representations in word recognition and production: Insight from pronunciation variants. Workshop Comprehension-Production, Max Planck Institute for Psycholinguistics, Nijmegen, March 26-28.
+
+Bürki, A. (201 3). On phonologically-driven variability: The case of determiners. Invited seminar, Max Planck Institute for Psycholinguistics, Nijmegen, November.
+
+Bürki, A., Laganaro, M. & Alario, F.-X. (2013). Phonlogically-driven variability: The case of determiners. AMLAP, Marseille, France, September 2013.
+
+Bürki, A., Laganaro, M. & Alario, F.-X. (2013). Phonlogically-driven variability: The case of determiners. ESCOP, Budapset, Hungary, August-September 2013.
+
+Bürki, A., Frauenfelder, U.-H., & Alario, F.-X. (2013).  An orthographic influence on phonologically driven variability? The case of determiners. Workshop on how the mind/brain accommodates linguistic variability. University of Michigan, Ann Arbor, July 2013.
+
+Bürki, A. & Laganaro, M. (2012). On the representation of determiners with two pronunciation variants in the mental lexicon. The Mental Lexicon, Montreal, Canada.
+
+Valente, A., Bürki, A. & Laganaro, M. (2012). ERP manifestation of psycholinguistic variables affecting word production: a mixed-effects regression model analysis on trial by trial topographie. Neurobiology of Language Conference, San Sebastian, Spain.
+
+Bürki, A.& Laganaro, M. (2012). The production of French non-schwa variants as a window into phonological planning in aphasic patients? Science of Aphasia; Groningen, The Netherlands.
+
+Bürki, A., Alario, F.-X., Ernestus, M. & Frauenfelder, U. (2010). Phonological variation and the production lexicon. 6th International Workshop on Language Production, Edinburgh, UK.
+
+Bürki, A. & Frauenfelder, U. (2010). Evidence for abstract lexical representations in the production lexicon. 6th International Workshop on Language Production, Edinburgh, UK.
+
+Bürki, A., Racine, I. & Spinelli, E. (2010). On the roles of canonicity, variant frequency and context in the recognition of phonological variants. Proceedings of AMLAP, York, UK.
+
+Bürki, A., Fougeron, C., Veaux, C. & Frauenfelder, U. (2009). How similar are clusters resulting from schwa deletion in French to identical underlying clusters? Proceedings of Interspeech, Brighton, UK.
+
+Bürki, A., Ernestus, M. & Frauenfelder, U. (2008). Producing words with and without their schwa in French. Mental Lexicon, Banff, Alberta, Canada.
+
+Bürki, A., Ernestus, M., Fougeron, C., Gendrot, C. & Frauenfelder, U. (2008). Factors influencing schwa deletion and duration: a corpus-based phonetic study. Acoustics'08, Paris, France.
+
+Bürki, A., Racine, I., Andreassen, H., Fougeron, C. & Frauenfelder, U. (2008). Timbre du schwa en français et variation régionale: une étude comparative. Journées d'études sur la parole, Avignon, France.
+
+Bürki, A., Fougeron, C. & Gendrot, C. (2007). On the categorical nature of French schwa. Proceedings of Interspeech, Antwerp, Belgium.
+
+Bürki, A., Fougeron, C., Gendrot, C. & Frauenfelder, U. (2007). De l’ambiguïté de la chute du schwa en français. Journées d’Etudes Linguistiques, Nantes, France.
+
+Bürki, A. & Gendrot, C. (2007). Reconnaissance automatique et analyse linguistique : l’exemple du schwa. Rencontres Jeunes Chercheurs en Parole, Paris, France.
+
+Fougeron, C., Gendrot, C. & Bürki, A. (2007). On the phonetic identity of French schwa compared to /ø/ and /oe/. Journées d’Etudes Linguistiques, Nantes, France.
+
+Fougeron, C., Gendrot, C. & Bürki, A. (2007). On the acoustic characteristics of French schwa. ICPHS, Saarbrücken, Germany.
+
+
+# Articles in French
+
+Bürki, A., Gendrot, C., Gravier, G., Linarès, G. & Fougeron, C. (2008). Alignement automatique et analyse phonétique: comparaison de différents systèmes pour l'analyse du schwa. Traitement Automatique des Langues, 49, 165-197.
+
+Bürki, A. & Laganaro, M. (in press). Représentation et encodage de la liaison : approches psycholinguistiques et neuropsycholinguistiques. In La liaison, approches contemporaines. Peter Lang.  
