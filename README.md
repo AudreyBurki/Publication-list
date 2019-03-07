@@ -41,8 +41,7 @@ Bürki, A., Sadat, J., Dubarry, A.-S., & Alario, F.-X. (2016). Sequential proces
 
 Bürki, A., Frauenfelder, U.-H., & Alario, F.-X. (2015). On the resolution of phonological constraints in spoken production: Acoustic and response time evidence. **_Journal of the Acoustical Society of America_**, 138, EL429.
 
-Bürki, A. & Pellet-Cheneval, P., & Laganaro, M. (2015). : Do speakers have access to a mental syllabary? ERP comparison of high frequency and novel syllable production. **_Brain & Language_**,150, 90-102.
-
+Bürki, A. & Pellet-Cheneval, P., & Laganaro, M. (2015). : Do speakers have access to a mental syllabary? ERP comparison of high frequency and novel syllable production. **_Brain & Language_**,150, 90-102.  ([data & scripts](https://osf.io/59hs8/))
  
 
 ## 2014
