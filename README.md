@@ -7,13 +7,18 @@
 (A subset of papers can be found on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail me if you cannot find the one you are looking for. The datasets and code for my most recent studies are on [OSF](https://osf.io/c6v0t/), I will add more in the (hopefully) near future
 
 
-## 2018-in press
+## 2019-in press
 
-Bürki, A., Frossard, J., & Renaud, O. (in press). Accounting for stimulus and participant effects in Event-related potential analyses to increase the replicability of studies. **_Journal of Neuroscience Methods_**.
+Bürki, A., Welby, P., Clément, M., & Spinelli, E. (in press). Orthography and second language word learning: Moving beyond “friend or foe?”. JASA Express Letters.
 
 Bürki, A., Besana, T., Degiorgi, G., Gilbert, R. & Alario, F.-X. (in press). Representation and selection of determiners with phonological variants. _**Journal of Experimental Psychology: Learning, Memory, and Cognition.**_ ([data & scripts]( https://osf.io/zxavm/))
 
-Bürki, A. (2018). Variation in the speech signal as a window into the cognitive architecture of language production. **_Psychonomic Bulletin & Review_**. 
+
+## 2018
+
+Bürki, A., Frossard, J., & Renaud, O. (2018). Accounting for stimulus and participant effects in Event-related potential analyses to increase the replicability of studies. **_Journal of Neuroscience Methods_**, 309, 218-327.
+
+Bürki, A. (2018). Variation in the speech signal as a window into the cognitive architecture of language production. **_Psychonomic Bulletin & Review_**, 25, 1973-2004.
 
 Bürki, A., Viebahn, M., Mabut, C., Racine, I., & Spinelli, E. (2018).  Intrinsic advantage for canonical forms in spoken word recognition: Myth or reality? **_Language, Cognition, & Neuroscience_**, 33(4), 494-511.
 
