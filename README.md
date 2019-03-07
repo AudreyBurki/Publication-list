@@ -9,7 +9,7 @@
 
 ## 2019-in press
 
-*Bürki, A., *Welby, P., Clément, M., & *Spinelli, E. (in press). Orthography and second language word learning: Moving beyond “friend or foe?” JASA Express Letters. (*joined first authors)
+*Bürki, A., *Welby, P., Clément, M., & *Spinelli, E. (in press). Orthography and second language word learning: Moving beyond “friend or foe?” _**JASA Express Letters.**_ (*joined first authors)
 
 Bürki, A., Besana, T., Degiorgi, G., Gilbert, R. & Alario, F.-X. (in press). Representation and selection of determiners with phonological variants. _**Journal of Experimental Psychology: Learning, Memory, and Cognition.**_ ([data & scripts]( https://osf.io/zxavm/))
 
