@@ -9,7 +9,7 @@
 
 ## 2019-in press
 
-Bürki, A., Welby, P., Clément, M., & Spinelli, E. (in press). Orthography and second language word learning: Moving beyond “friend or foe?”. JASA Express Letters.
+Bürki, A., Welby, P., Clément, M., & Spinelli, E. (in press). Orthography and second language word learning: Moving beyond “friend or foe?” JASA Express Letters.
 
 Bürki, A., Besana, T., Degiorgi, G., Gilbert, R. & Alario, F.-X. (in press). Representation and selection of determiners with phonological variants. _**Journal of Experimental Psychology: Learning, Memory, and Cognition.**_ ([data & scripts]( https://osf.io/zxavm/))
 
@@ -91,6 +91,12 @@ Bürki, A., Ernestus, M. & Frauenfelder, U. (2010). Is there only one ‘fenêtr
 
  
 # Conferences, seminars, workshops
+
+Bürki, A., Welby, P.,  & Spinelli, E. (2018). Orthography and second language word learning: Friend or foe? AMLAP, Sept.2018, Berlin.
+
+Bürki, A., Viebahn, M. & Gafos, A. (2018). Plasticity and transfer in the sound system: Exposure to syllables in perception changes their subsequent production. International Workshop on language production, July 2018, Nijmegen.
+ 
+Bürki, A. (2018). On the phonetic encoding of syllables in language production. Invited Seminar, April 2018, IPC, Munich.
 
 Bürki, A. (2017). Workshop on Conversational speech and lexical representations, Nijmegen, The Netherlands, June 8-9, 2017.
 
