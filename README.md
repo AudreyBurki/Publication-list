@@ -92,6 +92,20 @@ Bürki, A., Ernestus, M. & Frauenfelder, U. (2010). Is there only one ‘fenêtr
  
 # Conferences, seminars, workshops
 
+
+Jeong, H. & Bürki, A. (2019). The locus of phrase frequency effects in adjective-noun phrase production. ESCoP, Tenerife, Spain.
+
+Korochkina, M., Bürki, A., & Nickels, L. (2019). Semantic integration of new vocabulary: Does learning context matter? ESCoP, Tenerife, Spain.
+
+Korochkina, M., Bürki, A., & Nickels, L. (2019). The eﬀect of the learning context on novel word learning. AMLaP, Moscow, Russia.
+
+Lampe, L., Bürki, A., Hameau, S., Fieder, N., & Nickels, L. (2019). Exploring semantic variables in language production: behavioural and electrophysiological evidence. ESCoP, Tenerife, Spain.
+
+Madec, S., Elbuy, S., Villinger, T., & Bürki, A. (2019). Semantic interference and phonological facilitation in picture-word interference. ESCoP, Tenerife, Spain.
+
+Welby, P., Spinelli, E., Sadat, J. & Bürki, A. (2019). Variability and orthography in learning new words. ESCoP, Tenerife, Spain.
+
+
 Bürki, A., Welby, P.,  & Spinelli, E. (2018). Orthography and second language word learning: Friend or foe? AMLAP, Sept.2018, Berlin.
 
 Bürki, A., Viebahn, M. & Gafos, A. (2018). Plasticity and transfer in the sound system: Exposure to syllables in perception changes their subsequent production. International Workshop on language production, July 2018, Nijmegen.
