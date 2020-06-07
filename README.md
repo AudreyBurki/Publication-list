@@ -6,12 +6,18 @@
 # Peer-reviewed articles
 (A subset of papers can be found on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail me if you cannot find the one you are looking for. The datasets and code for my most recent studies are on [OSF](https://osf.io/c6v0t/), I will add more in the (hopefully) near future
 
+## 2020-in press
 
-## 2019-in press
+Bürki, A., Elbuy, S., Madec, S., & Vasishth, S. (2020). What did we learn from forty years of research on semantic interference? A Bayesian meta-analysis. _**Journal of Memory and Language.**_ ([paper](https://www.sciencedirect.com/science/article/pii/S0749596X20300395)) ([data & scripts](https://osf.io/k6f4c/))
 
-*Bürki, A., *Welby, P., Clément, M., & *Spinelli, E. (in press). Orthography and second language word learning: Moving beyond “friend or foe?” _**JASA Express Letters.**_ (*joined first authors) ([data & scripts](https://osf.io/rfjh6/))
+Bürki, A., Viebahn, M., Gafos, A. (in press). Plasticity and transfer in the sound system: Exposure to syllables in production or perception changes their subsequent production. _**Language, Cognition, & Neuroscience.**_([data & scripts](https://osf.io/97pyj/))
 
-Bürki, A., Besana, T., Degiorgi, G., Gilbert, R. & Alario, F.-X. (in press). Representation and selection of determiners with phonological variants. _**Journal of Experimental Psychology: Learning, Memory, and Cognition.**_ ([data & scripts]( https://osf.io/zxavm/))
+
+## 2019
+
+*Bürki, A., *Welby, P., Clément, M., & *Spinelli, E. (2019). Orthography and second language word learning: Moving beyond “friend or foe?” _**JASA Express Letters**_,145, EL265 (*joined first authors) ([data & scripts](https://osf.io/rfjh6/))
+
+Bürki, A., Besana, T., Degiorgi, G., Gilbert, R. & Alario, F.-X. (2019). Representation and selection of determiners with phonological variants. _**Journal of Experimental Psychology: Learning, Memory, and Cognition.**_45, 1287-1315. ([data & scripts]( https://osf.io/zxavm/)) doi: 10.1037/xlm0000643
 
 
 ## 2018
