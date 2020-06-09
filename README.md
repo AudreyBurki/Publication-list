@@ -8,7 +8,7 @@
 
 ## 2020-in press
 
-Bürki, A., Elbuy, S., Madec, S., & Vasishth, S. (2020). What did we learn from forty years of research on semantic interference? A Bayesian meta-analysis. _**Journal of Memory and Language.**_ ([paper](https://www.sciencedirect.com/science/article/pii/S0749596X20300395)) ([data & scripts](https://osf.io/k6f4c/))
+Bürki, A., Elbuy, S., Madec, S., & Vasishth, S. (2020). What did we learn from forty years of research on semantic interference? A Bayesian meta-analysis. _**Journal of Memory and Language.**_ ([paper](https://www.sciencedirect.com/science/article/pii/S0749596X20300395)) ([data & scripts](https://osf.io/k6f4c/)) doi:10.1016/j.jml.2020.104125
 
 Bürki, A., Viebahn, M., Gafos, A. (in press). Plasticity and transfer in the sound system: Exposure to syllables in production or perception changes their subsequent production. _**Language, Cognition, & Neuroscience.**_([data & scripts](https://osf.io/97pyj/))
 
