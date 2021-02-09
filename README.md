@@ -4,9 +4,13 @@
 
 
 # Peer-reviewed articles
-(A subset of papers can be found on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail me if you cannot find the one you are looking for. The datasets and code for my most recent studies are on [OSF](https://osf.io/c6v0t/), I will add more in the (hopefully) near future
+(A subset of papers can be found on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail us if you cannot find the one you are looking for. The datasets and code for the most recent studies are on [OSF](https://osf.io/c6v0t/), I will add more in the (hopefully) near future
 
-## 2020-in press
+## 2021
+
+Lorenz, A., Zwitserlood, P., Bürki, A., Regel, S., Ouyang, G., & Abdel Rahman, R. (2021). Morphological facilitation and semantic interference in compound production: An ERP study. Cognition, 209, 104518. doi: 10.1016/j.cognition.2020.104518
+
+## 2020
 
 Bürki, A., Elbuy, S., Madec, S., & Vasishth, S. (2020). What did we learn from forty years of research on semantic interference? A Bayesian meta-analysis. _**Journal of Memory and Language.**_ ([paper](https://www.sciencedirect.com/science/article/pii/S0749596X20300395)) ([data & scripts](https://osf.io/k6f4c/)) doi:10.1016/j.jml.2020.104125
 
