@@ -8,6 +8,8 @@
 
 ## 2021
 
+Jeong, H., van den Hoven, E., Madec, S., & Bürki, A. (accepted for publication). Behavioral and brain responses highlight the role of usage in the preparation of multi-word utterances for production. Journal of Cognitive Neuroscience. ([data & scripts](https://osf.io/9gy4r/files))
+
 Lorenz, A., Zwitserlood, P., Bürki, A., Regel, S., Ouyang, G., & Abdel Rahman, R. (2021). Morphological facilitation and semantic interference in compound production: An ERP study. Cognition, 209, 104518. doi: 10.1016/j.cognition.2020.104518
 
 ## 2020
