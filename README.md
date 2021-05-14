@@ -6,11 +6,23 @@
 # Peer-reviewed articles
 (A subset of papers can be found on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail us if you cannot find the one you are looking for. The datasets and code for the most recent studies are on [OSF](https://osf.io/c6v0t/), I will add more in the (hopefully) near future
 
+
+## Work in progress
+
+Fuhrmeister, P., & Bürki, A. (submitted). Delta plot analyses do not reflect individual differences in selective inhibition during picture-word interference tasks.
+
+Fuhrmeister, P., Madec, S., Lorenz, A., Elbuy, S., & Bürki, A. (submitted). Behavioral and EEG evidence for inter-individual variability in late encoding stages of word production. (Link to manuscript:  https://arxiv.org/abs/2011.09232).
+
+Bürki, A., & Madec., S.  (submitted). Picture-word interference in language production studies: Attention and processing times matter.
+
+
 ## 2021
 
-Jeong, H., van den Hoven, E., Madec, S., & Bürki, A. (accepted for publication). Behavioral and brain responses highlight the role of usage in the preparation of multi-word utterances for production. Journal of Cognitive Neuroscience. ([data & scripts](https://osf.io/9gy4r/files))
+Jeong, H., van den Hoven, E., Madec, S., & Bürki, A. (accepted for publication). Behavioral and brain responses highlight the role of usage in the preparation of multi-word utterances for production. _**Journal of Cognitive Neuroscience.**_ ([paper, data & scripts](https://osf.io/9gy4r/files))
 
-Lorenz, A., Zwitserlood, P., Bürki, A., Regel, S., Ouyang, G., & Abdel Rahman, R. (2021). Morphological facilitation and semantic interference in compound production: An ERP study. Cognition, 209, 104518. doi: 10.1016/j.cognition.2020.104518
+Korochkina, M., Bürki, A*., & Nickels, L*. (in press). Apples and oranges: How does learning context affect novel word learning? _**Journal of Memory and Language.**_ (*joined senior authorship)
+
+Lorenz, A., Zwitserlood, P., Bürki, A., Regel, S., Ouyang, G., & Abdel Rahman, R. (2021). Morphological facilitation and semantic interference in compound production: An ERP study. _**Cognition**_, 209, 104518. doi: 10.1016/j.cognition.2020.104518
 
 ## 2020
 
