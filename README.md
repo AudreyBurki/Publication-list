@@ -9,11 +9,17 @@
 
 ## Work in progress
 
-Fuhrmeister, P., & Bürki, A. (submitted). Delta plot analyses do not reflect individual differences in selective inhibition during picture-word interference tasks.
+Welby, P., Spinelli, E., & Bürki, A. (submitted). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning
+
+Fuhrmeister, P., & Bürki, A. (accepted with minor revisions). Distributional properties of semantic interference in picture naming: Bayesian meta-analyses. Psychonomic Bulletin & Review (link to be added soon)
 
 Fuhrmeister, P., Madec, S., Lorenz, A., Elbuy, S., & Bürki, A. (submitted). Behavioral and EEG evidence for inter-individual variability in late encoding stages of word production. (Link to manuscript:  https://arxiv.org/abs/2011.09232).
 
-Bürki, A., & Madec., S.  (submitted). Picture-word interference in language production studies: Attention and processing times matter.
+Bürki, A., & Madec., S.  (submitted). Picture-word interference in language production studies: Exploring the roles of attention and processing times.
+
+Elbuy, S. & Bürki, A. (submitted). Semitic root facilitation in picture-word-interference: Evidence from Arabic.
+
+Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, submitted). Assessing reliability of word production measures.  
 
 
 ## 2021
