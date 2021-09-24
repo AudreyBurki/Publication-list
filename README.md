@@ -20,9 +20,9 @@ Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, submitted). Ass
 
 ## Available soon
 
-Bürki, A., & Madec., S.  (accepted with minor revisions). Picture-word interference in language production studies: Exploring the roles of attention and processing times.  _**Journal of Experimental Psychology: Learning, Memory, & Cognition**_
+Bürki, A., & Madec., S.  (accepted for publication). Picture-word interference in language production studies: Exploring the roles of attention and processing times.  _**Journal of Experimental Psychology: Learning, Memory, & Cognition**_
 
-Fuhrmeister, P., & Bürki, A. (accepted with minor revisions). Distributional properties of semantic interference in picture naming: Bayesian meta-analyses.  _**Psychonomic Bulletin & Review**_ (link to be added soon)
+Fuhrmeister, P., & Bürki, A. (accepted for publication). Distributional properties of semantic interference in picture naming: Bayesian meta-analyses.  _**Psychonomic Bulletin & Review**_ (link to be added soon)
 
 
 
