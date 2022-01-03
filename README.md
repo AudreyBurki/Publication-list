@@ -26,7 +26,7 @@ Bürki, A., & Madec., S.  (2022). Picture-word interference in language producti
 
 ## 2021
 
-Fuhrmeister, P., & Bürki, A. (2021). Distributional properties of semantic interference in picture naming: Bayesian meta-analyses.  _**Psychonomic Bulletin & Review**_ ([data & scripts(https://osf.io/v2fx5/)) (paper(https://link.springer.com/article/10.3758/s13423-021-02016-6))
+Fuhrmeister, P., & Bürki, A. (2021). Distributional properties of semantic interference in picture naming: Bayesian meta-analyses.  _**Psychonomic Bulletin & Review**_ ([data & scripts](https://osf.io/v2fx5/)) ([paper](https://link.springer.com/article/10.3758/s13423-021-02016-6))
 
 Jeong, H., van den Hoven, E., Madec, S., & Bürki, A. (2021). Behavioral and brain responses highlight the role of usage in the preparation of multi-word utterances for production. _**Journal of Cognitive Neuroscience.**_ ([paper, data & scripts](https://osf.io/9gy4r/files))
 
