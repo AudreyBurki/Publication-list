@@ -20,17 +20,17 @@ Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, submitted). Ass
 
 ## Available soon
 
-Bürki, A., & Madec., S.  (accepted for publication). Picture-word interference in language production studies: Exploring the roles of attention and processing times.  _**Journal of Experimental Psychology: Learning, Memory, & Cognition**_
+Bürki, A., & Madec., S.  (2022). Picture-word interference in language production studies: Exploring the roles of attention and processing times.  _**Journal of Experimental Psychology: Learning, Memory, & Cognition**_
 
 
 
 ## 2021
 
-Fuhrmeister, P., & Bürki, A. (accepted for publication). Distributional properties of semantic interference in picture naming: Bayesian meta-analyses.  _**Psychonomic Bulletin & Review**_ ([data & scripts(https://osf.io/v2fx5/)) (paper(https://link.springer.com/article/10.3758/s13423-021-02016-6))
+Fuhrmeister, P., & Bürki, A. (2021). Distributional properties of semantic interference in picture naming: Bayesian meta-analyses.  _**Psychonomic Bulletin & Review**_ ([data & scripts(https://osf.io/v2fx5/)) (paper(https://link.springer.com/article/10.3758/s13423-021-02016-6))
 
-Jeong, H., van den Hoven, E., Madec, S., & Bürki, A. (accepted for publication). Behavioral and brain responses highlight the role of usage in the preparation of multi-word utterances for production. _**Journal of Cognitive Neuroscience.**_ ([paper, data & scripts](https://osf.io/9gy4r/files))
+Jeong, H., van den Hoven, E., Madec, S., & Bürki, A. (2021). Behavioral and brain responses highlight the role of usage in the preparation of multi-word utterances for production. _**Journal of Cognitive Neuroscience.**_ ([paper, data & scripts](https://osf.io/9gy4r/files))
 
-Korochkina, M., Bürki, A*., & Nickels, L*. (in press). Apples and oranges: How does learning context affect novel word learning? _**Journal of Memory and Language.**_ (*joined senior authorship)
+Korochkina, M., Bürki, A*., & Nickels, L*. (2021). Apples and oranges: How does learning context affect novel word learning? _**Journal of Memory and Language.**_ (*joined senior authorship)
 
 Lorenz, A., Zwitserlood, P., Bürki, A., Regel, S., Ouyang, G., & Abdel Rahman, R. (2021). Morphological facilitation and semantic interference in compound production: An ERP study. _**Cognition**_, 209, 104518. doi: 10.1016/j.cognition.2020.104518
 
