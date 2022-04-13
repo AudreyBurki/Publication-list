@@ -9,7 +9,7 @@
 
 ## Work in progress
 
-Welby, P., Spinelli, E., & Bürki, A. (in revision). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning (link to [preprint](https://arxiv.org/abs/2109.03490)
+Welby, P., Spinelli, E., & Bürki, A. (in revision). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning (link to [preprint](https://arxiv.org/abs/2109.03490))
 
 Elbuy, S. & Bürki, A. (in revision). Semitic root facilitation in picture-word-interference: Evidence from Arabic.
 
