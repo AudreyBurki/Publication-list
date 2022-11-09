@@ -13,11 +13,11 @@ Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, accepted in pri
 
 ## 2022
 
-Bürki, A. Planning the sound structure of words from a psycholinguistic perspective (accepted). In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. 
+Bürki, A. Planning the sound structure of words from a psycholinguistic perspective (in press). In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. 
 
 Welby, P., Spinelli, E., & Bürki, A. (accepted). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning, Journal of Phonetics, (link to [preprint](https://arxiv.org/abs/2109.03490)), (link to [preregistration](https://osf.io/cdh7n)) ([data & scripts](https://osf.io/krsqt/))
 
-Bürki, A., Alario, X., & Vasishth, S. (accepted). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. ([data & scripts](https://osf.io/sjn5b/))
+Bürki, A., Alario, X., & Vasishth, S. (in press). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. The quarterls Journal of Experimental Psychology. ([data & scripts](https://osf.io/sjn5b/))
 
 Bürki, A., & Madec., S.  (2022). Picture-word interference in language production studies: Exploring the roles of attention and processing times.  _**Journal of Experimental Psychology: Learning, Memory, & Cognition**_  ([paper](https://pubmed.ncbi.nlm.nih.gov/35389697/)) ([data & scripts](https://osf.io/u46hf/))
 
