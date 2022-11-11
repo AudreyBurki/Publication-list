@@ -15,6 +15,9 @@ Bürki, A., Alario, X., & Vasishth, S. (in press). When words collide: Bayesian 
 
 Bürki, A. Planning the sound structure of words from a psycholinguistic perspective (in press). In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. 
 
+Korochkina, M., Sowman, P. F., Nickels, L., & Bürki, A. (2022). Neural correlates of encoding in novel word learning. Collabra: Psychology ([pre-print, data & scripts](https://osf.io/mg4kr/))
+
+
 ## 2022
 
 Welby, P., Spinelli, E., & Bürki, A. (2022). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning, _**Journal of Phonetics**_, 94, 101172. ([paper](https://doi.org/10.1016/j.wocn.2022.101172)) (link to [preprint](https://arxiv.org/abs/2109.03490)), (link to [preregistration](https://osf.io/cdh7n)) ([data & scripts](https://osf.io/krsqt/))
