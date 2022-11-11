@@ -7,17 +7,17 @@
 (A subset of papers can be found on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail us if you cannot find the one you are looking for. The datasets and code for the most recent studies are on [OSF](https://osf.io/c6v0t/), I will add more in the (hopefully) near future
 
 
-## (some) Work in progress
+## available soon
 
 Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, accepted in principle). Assessing reliability of word production measures. Journal of Cognition.
+
+Bürki, A., Alario, X., & Vasishth, S. (in press). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. The quarterls Journal of Experimental Psychology. ([data & scripts](https://osf.io/sjn5b/))
 
 ## 2022
 
 Bürki, A. Planning the sound structure of words from a psycholinguistic perspective (in press). In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. 
 
-Welby, P., Spinelli, E., & Bürki, A. (accepted). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning, Journal of Phonetics, (link to [preprint](https://arxiv.org/abs/2109.03490)), (link to [preregistration](https://osf.io/cdh7n)) ([data & scripts](https://osf.io/krsqt/))
-
-Bürki, A., Alario, X., & Vasishth, S. (in press). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. The quarterls Journal of Experimental Psychology. ([data & scripts](https://osf.io/sjn5b/))
+Welby, P., Spinelli, E., & Bürki, A. (2022). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning, Journal of Phonetics, 94, 101172. ([paper](https://doi.org/10.1016/j.wocn.2022.101172)) (link to [preprint](https://arxiv.org/abs/2109.03490)), (link to [preregistration](https://osf.io/cdh7n)) ([data & scripts](https://osf.io/krsqt/))
 
 Bürki, A., & Madec., S.  (2022). Picture-word interference in language production studies: Exploring the roles of attention and processing times.  _**Journal of Experimental Psychology: Learning, Memory, & Cognition**_  ([paper](https://pubmed.ncbi.nlm.nih.gov/35389697/)) ([data & scripts](https://osf.io/u46hf/))
 
