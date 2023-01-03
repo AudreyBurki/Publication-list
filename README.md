@@ -11,7 +11,7 @@
 
 Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, accepted in principle). Assessing reliability of word production measures. Journal of Cognition.
 
-Bürki, A., Alario, X., & Vasishth, S. (in press). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. _**The Quarterly Journal of Experimental Psychology**_. ([data & scripts](https://osf.io/sjn5b/))
+Bürki, A., Alario, X., & Vasishth, S. (2022). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. _**The Quarterly Journal of Experimental Psychology**_. ([data & scripts](https://osf.io/sjn5b/)) ([paper](https://pubmed.ncbi.nlm.nih.gov/35818127/))
 
 Bürki, A. Planning the sound structure of words from a psycholinguistic perspective (in press). In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. 
 
