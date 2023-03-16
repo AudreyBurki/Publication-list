@@ -8,9 +8,9 @@ A subset of papers can be found on [Researchgate](https://www.researchgate.net/p
 
 ## Pre-print
 
-Vasishth, S., Schad, D.; Bürki, A.; Klieg, R. (work in progress). Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction. [Bookdown](https://vasishth.github.io/Freq_CogSci/)
+Vasishth, S., Schad, D.; Bürki, A.; Klieg, R. (work in progress). Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction. ([Bookdown](https://vasishth.github.io/Freq_CogSci/))
 
-Bürki, A-. van den Hoven, E., Schiller, N.O., & Dimitrov, N. (submitted). Cross-linguistic differences in gender congruency effects: Evidence from meta-analyses. [pre-print]()
+Bürki, A. van den Hoven, E., Schiller, N.O., & Dimitrov, N. (submitted). Cross-linguistic differences in gender congruency effects: Evidence from meta-analyses. [pre-print]()
 
 ## Available soon
 
@@ -19,7 +19,7 @@ Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, accepted in pri
 
 ## 2023
 
-Bürki, A. Planning the sound structure of words from a psycholinguistic perspective (2023). In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. ([link to bookk](https://www.taylorfrancis.com/books/edit/10.4324/9781003145790/language-production-robert-hartsuiker-kristof-strijkers))
+Bürki, A. Planning the sound structure of words from a psycholinguistic perspective (2023). In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. ([link to book](https://www.taylorfrancis.com/books/edit/10.4324/9781003145790/language-production-robert-hartsuiker-kristof-strijkers))
 
 Korochkina, M., Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlates of encoding in novel word learning. Collabra: Psychology ([pre-print, data & scripts](https://osf.io/mg4kr/)) ([paper](https://doi.org/10.1525/collabra.57525))
 
@@ -31,7 +31,7 @@ Welby, P., Spinelli, E., & Bürki, A. (2022). Spelling provides a precise (but s
 
 Bürki, A., & Madec., S.  (2022). Picture-word interference in language production studies: Exploring the roles of attention and processing times.  _**Journal of Experimental Psychology: Learning, Memory, & Cognition**_  ([paper](https://pubmed.ncbi.nlm.nih.gov/35389697/)) ([preprint]) ([data & scripts](https://osf.io/u46hf/))
 
-Fuhrmeister, P., Madec, S., Lorenz, A., Elbuy, S., & Bürki, A. (2022). Behavioral and EEG evidence for inter-individual variability in late encoding stages of word production. _**Language, Cognition & Neuroscience**_ ([data & scripts](https://osf.io/svjh5/))
+Fuhrmeister, P., Madec, S., Lorenz, A., Elbuy, S., & Bürki, A. (2022). Behavioral and EEG evidence for inter-individual variability in late encoding stages of word production. _**Language, Cognition & Neuroscience**_ ([data & scripts](https://osf.io/svjh5/)) ([paper](https://www.tandfonline.com/doi/full/10.1080/23273798.2022.2030483))
 
 Fuhrmeister, P., & Bürki, A. (2022). Distributional properties of semantic interference in picture naming: Bayesian meta-analyses.  _**Psychonomic Bulletin & Review**_, 29(2):635-647. doi: 10.3758/s13423-021-02016-6. 
 ([data & scripts](https://osf.io/v2fx5/)) ([paper](https://link.springer.com/article/10.3758/s13423-021-02016-6))
