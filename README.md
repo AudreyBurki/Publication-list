@@ -25,11 +25,11 @@ Korochkina, M., Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlat
 
 
 ## 2022
-Bürki, A., Alario, X., & Vasishth, S. (2022). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. _**The Quarterly Journal of Experimental Psychology**_. ([data & scripts](https://osf.io/sjn5b/)) ([paper](https://arxiv.org/abs/2008.03972))
+Bürki, A., Alario, X., & Vasishth, S. (2022). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. _**The Quarterly Journal of Experimental Psychology**_. ([data & scripts](https://osf.io/sjn5b/)) ([pre-print](https://arxiv.org/abs/2008.03972))
 
-Welby, P., Spinelli, E., & Bürki, A. (2022). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning, _**Journal of Phonetics**_, 94, 101172. ([paper](https://doi.org/10.1016/j.wocn.2022.101172)) (link to [preprint](https://arxiv.org/abs/2109.03490)), (link to [preregistration](https://osf.io/cdh7n)) ([data & scripts](https://osf.io/krsqt/))
+Welby, P., Spinelli, E., & Bürki, A. (2022). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning, _**Journal of Phonetics**_, 94, 101172. ([paper](https://doi.org/10.1016/j.wocn.2022.101172)) ([preprint](https://arxiv.org/abs/2109.03490)), (link to [preregistration](https://osf.io/cdh7n)) ([data & scripts](https://osf.io/krsqt/))
 
-Bürki, A., & Madec., S.  (2022). Picture-word interference in language production studies: Exploring the roles of attention and processing times.  _**Journal of Experimental Psychology: Learning, Memory, & Cognition**_  ([paper](https://pubmed.ncbi.nlm.nih.gov/35389697/)) ([data & scripts](https://osf.io/u46hf/))
+Bürki, A., & Madec., S.  (2022). Picture-word interference in language production studies: Exploring the roles of attention and processing times.  _**Journal of Experimental Psychology: Learning, Memory, & Cognition**_  ([paper](https://pubmed.ncbi.nlm.nih.gov/35389697/)) ([preprint]) ([data & scripts](https://osf.io/u46hf/))
 
 Fuhrmeister, P., Madec, S., Lorenz, A., Elbuy, S., & Bürki, A. (2022). Behavioral and EEG evidence for inter-individual variability in late encoding stages of word production. _**Language, Cognition & Neuroscience**_ ([data & scripts](https://osf.io/svjh5/))
 
@@ -38,9 +38,9 @@ Fuhrmeister, P., & Bürki, A. (2022). Distributional properties of semantic inte
 
 ## 2021
 
-Jeong, H., van den Hoven, E., Madec, S., & Bürki, A. (2021). Behavioral and brain responses highlight the role of usage in the preparation of multi-word utterances for production. _**Journal of Cognitive Neuroscience.**_ ([paper, data & scripts](https://osf.io/9gy4r/files))
+Jeong, H., van den Hoven, E., Madec, S., & Bürki, A. (2021). Behavioral and brain responses highlight the role of usage in the preparation of multi-word utterances for production. _**Journal of Cognitive Neuroscience.**_ ([preprint, data & scripts](https://osf.io/9gy4r/files))
 
-Korochkina, M., Bürki, A*., & Nickels, L*. (2021). Apples and oranges: How does learning context affect novel word learning? _**Journal of Memory and Language.**_ (*joined senior authorship)
+Korochkina, M., Bürki, A*., & Nickels, L*. (2021). Apples and oranges: How does learning context affect novel word learning? _**Journal of Memory and Language.**_ (*joined senior authorship)([preprint, data, scripts](https://osf.io/g7ftz/))
 
 Lorenz, A., Zwitserlood, P., Bürki, A., Regel, S., Ouyang, G., & Abdel Rahman, R. (2021). Morphological facilitation and semantic interference in compound production: An ERP study. _**Cognition**_, 209, 104518. doi: 10.1016/j.cognition.2020.104518
 
@@ -48,7 +48,7 @@ Lorenz, A., Zwitserlood, P., Bürki, A., Regel, S., Ouyang, G., & Abdel Rahman, 
 
 Bürki, A., Elbuy, S., Madec, S., & Vasishth, S. (2020). What did we learn from forty years of research on semantic interference? A Bayesian meta-analysis. _**Journal of Memory and Language.**_ ([paper](https://www.sciencedirect.com/science/article/pii/S0749596X20300395)) ([data & scripts](https://osf.io/k6f4c/)) doi:10.1016/j.jml.2020.104125
 
-Bürki, A., Viebahn, M., Gafos, A. (in press). Plasticity and transfer in the sound system: Exposure to syllables in production or perception changes their subsequent production. _**Language, Cognition, & Neuroscience.**_ ([data & scripts](https://osf.io/97pyj/))
+Bürki, A., Viebahn, M., Gafos, A. (2020). Plasticity and transfer in the sound system: Exposure to syllables in production or perception changes their subsequent production. _**Language, Cognition, & Neuroscience.**_ ([data & scripts](https://osf.io/97pyj/))
 
 
 ## 2019
