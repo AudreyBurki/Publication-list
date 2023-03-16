@@ -48,12 +48,12 @@ Lorenz, A., Zwitserlood, P., Bürki, A., Regel, S., Ouyang, G., & Abdel Rahman, 
 
 Bürki, A., Elbuy, S., Madec, S., & Vasishth, S. (2020). What did we learn from forty years of research on semantic interference? A Bayesian meta-analysis. _**Journal of Memory and Language.**_ ([paper](https://www.sciencedirect.com/science/article/pii/S0749596X20300395)) ([data & scripts](https://osf.io/k6f4c/)) doi:10.1016/j.jml.2020.104125
 
-Bürki, A., Viebahn, M., Gafos, A. (2020). Plasticity and transfer in the sound system: Exposure to syllables in production or perception changes their subsequent production. _**Language, Cognition, & Neuroscience.**_ ([data & scripts](https://osf.io/97pyj/))
+Bürki, A., Viebahn, M., Gafos, A. (2020). Plasticity and transfer in the sound system: Exposure to syllables in production or perception changes their subsequent production. _**Language, Cognition, & Neuroscience.**_ ([preprint, data & scripts](https://osf.io/97pyj/))
 
 
 ## 2019
 
-*Bürki, A., *Welby, P., Clément, M., & *Spinelli, E. (2019). Orthography and second language word learning: Moving beyond “friend or foe?” _**JASA Express Letters**_,145, EL265 (*joined first authors) ([data & scripts](https://osf.io/rfjh6/)) doi: 10.1121/1.5094923
+*Bürki, A., *Welby, P., Clément, M., & *Spinelli, E. (2019). Orthography and second language word learning: Moving beyond “friend or foe?” _**JASA Express Letters**_,145, EL265 (*joined first authors) ([data & scripts](https://osf.io/rfjh6/)) ([paper](https://asa.scitation.org/doi/10.1121/1.5094923))
 
 Bürki, A., Besana, T., Degiorgi, G., Gilbert, R. & Alario, F.-X. (2019). Representation and selection of determiners with phonological variants. _**Journal of Experimental Psychology: Learning, Memory, and Cognition.**_, 45, 1287-1315. ([data & scripts](https://osf.io/zxavm/)) doi: 10.1037/xlm0000643
 
