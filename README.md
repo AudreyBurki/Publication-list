@@ -4,7 +4,7 @@
 
 
 # Peer-reviewed articles
-A subset of papers can be found on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail me if you cannot find the one you are looking for. The datasets and code for papers published after 2018 are available publicly on [OSF](https://osf.io/c6v0t/). I will add more in the (hopefully) near future.
+Prep-prints or links to full paper can be found on this page or on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail me if you cannot find the one you are looking for. The datasets and code for papers published after 2018 are available publicly on [OSF](https://osf.io/c6v0t/). I will add more in the (hopefully) near future.
 
 ## Pre-print
 
