@@ -25,7 +25,7 @@ Korochkina, M., Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlat
 
 
 ## 2022
-Bürki, A., Alario, X., & Vasishth, S. (2022). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. _**The Quarterly Journal of Experimental Psychology**_. ([data & scripts](https://osf.io/sjn5b/)) ([paper](https://pubmed.ncbi.nlm.nih.gov/35818127/))
+Bürki, A., Alario, X., & Vasishth, S. (2022). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. _**The Quarterly Journal of Experimental Psychology**_. ([data & scripts](https://osf.io/sjn5b/)) ([paper](https://arxiv.org/abs/2008.03972))
 
 Welby, P., Spinelli, E., & Bürki, A. (2022). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning, _**Journal of Phonetics**_, 94, 101172. ([paper](https://doi.org/10.1016/j.wocn.2022.101172)) (link to [preprint](https://arxiv.org/abs/2109.03490)), (link to [preregistration](https://osf.io/cdh7n)) ([data & scripts](https://osf.io/krsqt/))
 
