@@ -4,24 +4,28 @@
 
 
 # Peer-reviewed articles
-(A subset of papers can be found on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail us if you cannot find the one you are looking for. The datasets and code for the most recent studies are on [OSF](https://osf.io/c6v0t/), I will add more in the (hopefully) near future
+A subset of papers can be found on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail me if you cannot find the one you are looking for. The datasets and code for papers published after 2018 are available publicly on [OSF](https://osf.io/c6v0t/). I will add more in the (hopefully) near future.
 
+## Pre-print
 
-## available soon
+Vasishth, S., Schad, D.; Bürki, A.; Klieg, R. (work in progress). Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction. [Bookdown](https://vasishth.github.io/Freq_CogSci/)
+
+Bürki, A-. van den Hoven, E., Schiller, N.O., & Dimitrov, N. (submitted). Cross-linguistic differences in gender congruency effects: Evidence from meta-analyses. [pre-print]()
+
+## Available soon
 
 Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, accepted in principle). Assessing reliability of word production measures. Journal of Cognition.
-
-Bürki, A., Alario, X., & Vasishth, S. (onine ahead of print). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. _**The Quarterly Journal of Experimental Psychology**_. ([data & scripts](https://osf.io/sjn5b/)) ([paper](https://pubmed.ncbi.nlm.nih.gov/35818127/))
-
-Bürki, A. Planning the sound structure of words from a psycholinguistic perspective (in press). In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. ([link to bookk](https://www.taylorfrancis.com/books/edit/10.4324/9781003145790/language-production-robert-hartsuiker-kristof-strijkers))
 
 
 ## 2023
 
-Korochkina, M., Sowman, P. F., Nickels, L., & Bürki, A. (2022). Neural correlates of encoding in novel word learning. Collabra: Psychology ([pre-print, data & scripts](https://osf.io/mg4kr/)) ([paper](https://doi.org/10.1525/collabra.57525))
+Bürki, A. Planning the sound structure of words from a psycholinguistic perspective (2023). In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. ([link to bookk](https://www.taylorfrancis.com/books/edit/10.4324/9781003145790/language-production-robert-hartsuiker-kristof-strijkers))
+
+Korochkina, M., Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlates of encoding in novel word learning. Collabra: Psychology ([pre-print, data & scripts](https://osf.io/mg4kr/)) ([paper](https://doi.org/10.1525/collabra.57525))
 
 
 ## 2022
+Bürki, A., Alario, X., & Vasishth, S. (2022). When words collide: Bayesian meta-analyses of distractor and target properties in the picture-word interference paradigm. _**The Quarterly Journal of Experimental Psychology**_. ([data & scripts](https://osf.io/sjn5b/)) ([paper](https://pubmed.ncbi.nlm.nih.gov/35818127/))
 
 Welby, P., Spinelli, E., & Bürki, A. (2022). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning, _**Journal of Phonetics**_, 94, 101172. ([paper](https://doi.org/10.1016/j.wocn.2022.101172)) (link to [preprint](https://arxiv.org/abs/2109.03490)), (link to [preregistration](https://osf.io/cdh7n)) ([data & scripts](https://osf.io/krsqt/))
 
