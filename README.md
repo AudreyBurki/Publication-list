@@ -10,7 +10,7 @@ Prep-prints or links to full paper can be found on this page or on [Researchgate
 
 Vasishth, S., Schad, D.; Bürki, A.; Klieg, R. (work in progress). Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction. ([Bookdown](https://vasishth.github.io/Freq_CogSci/))
 
-Bürki, A. van den Hoven, E., Schiller, N.O., & Dimitrov, N. (submitted). Cross-linguistic differences in gender congruency effects: Evidence from meta-analyses. [pre-print]()
+Bürki, A. van den Hoven, E., Schiller, N.O., & Dimitrov, N. (submitted). Cross-linguistic differences in gender congruency effects: Evidence from meta-analyses. [pre-print](https://arxiv.org/abs/2109.03490)
 
 ## Available soon
 
@@ -29,7 +29,7 @@ Bürki, A., Alario, X., & Vasishth, S. (2022). When words collide: Bayesian meta
 
 Welby, P., Spinelli, E., & Bürki, A. (2022). Spelling provides a precise (but sometimes misplaced) phonological target. Orthography and acoustic variability in second language word learning, _**Journal of Phonetics**_, 94, 101172. ([paper](https://doi.org/10.1016/j.wocn.2022.101172)) ([preprint](https://arxiv.org/abs/2109.03490)), (link to [preregistration](https://osf.io/cdh7n)) ([data & scripts](https://osf.io/krsqt/))
 
-Bürki, A., & Madec., S.  (2022). Picture-word interference in language production studies: Exploring the roles of attention and processing times.  _**Journal of Experimental Psychology: Learning, Memory, & Cognition**_  ([paper](https://pubmed.ncbi.nlm.nih.gov/35389697/)) ([preprint]) ([data & scripts](https://osf.io/u46hf/))
+Bürki, A., & Madec., S.  (2022). Picture-word interference in language production studies: Exploring the roles of attention and processing times.  _**Journal of Experimental Psychology: Learning, Memory, & Cognition**_  ([paper](https://pubmed.ncbi.nlm.nih.gov/35389697/)) ([preprint](https://arxiv.org/abs/2303.09201)) ([data & scripts](https://osf.io/u46hf/))
 
 Fuhrmeister, P., Madec, S., Lorenz, A., Elbuy, S., & Bürki, A. (2022). Behavioral and EEG evidence for inter-individual variability in late encoding stages of word production. _**Language, Cognition & Neuroscience**_ ([data & scripts](https://osf.io/svjh5/)) ([paper](https://www.tandfonline.com/doi/full/10.1080/23273798.2022.2030483))
 
