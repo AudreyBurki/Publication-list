@@ -53,7 +53,7 @@ Bürki, A., Viebahn, M., Gafos, A. (2020). Plasticity and transfer in the sound 
 
 ## 2019
 
-*Bürki, A., *Welby, P., Clément, M., & *Spinelli, E. (2019). Orthography and second language word learning: Moving beyond “friend or foe?” _**JASA Express Letters**_,145, EL265 (*joined first authors) ([data & scripts](https://osf.io/rfjh6/)) ([paper](https://asa.scitation.org/doi/10.1121/1.5094923))
+Bürki, A., Welby, P., Clément, M., & Spinelli, E. (2019). Orthography and second language word learning: Moving beyond “friend or foe?” _**JASA Express Letters**_,145, EL265 (AB, PW: joined first authors) ([data & scripts](https://osf.io/rfjh6/)) ([paper](https://asa.scitation.org/doi/10.1121/1.5094923))
 
 Bürki, A., Besana, T., Degiorgi, G., Gilbert, R. & Alario, F.-X. (2019). Representation and selection of determiners with phonological variants. _**Journal of Experimental Psychology: Learning, Memory, and Cognition.**_, 45, 1287-1315. ([data & scripts](https://osf.io/zxavm/)) doi: 10.1037/xlm0000643
 
