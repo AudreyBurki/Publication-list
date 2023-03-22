@@ -4,7 +4,7 @@
 
 
 # Peer-reviewed articles
-Prep-prints or links to full paper can be found on this page or on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail me if you cannot find the one you are looking for. The datasets and code for papers published after 2018 are available publicly on [OSF](https://osf.io/c6v0t/). I will add more in the (hopefully) near future.
+Prep-prints or links to full paper can be found on this page or on [Researchgate](https://www.researchgate.net/profile/Audrey_Buerki), e-mail me if you cannot find the one you are looking for. The datasets and code for papers published after 2018 are available publicly on [OSF](https://osf.io/c6v0t/) for most articles. I will add more in the (hopefully) near future.
 
 ## Pre-print
 
@@ -22,6 +22,8 @@ Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, accepted in pri
 Bürki, A. Planning the sound structure of words from a psycholinguistic perspective (2023). In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. ([link to book](https://www.taylorfrancis.com/books/edit/10.4324/9781003145790/language-production-robert-hartsuiker-kristof-strijkers))
 
 Korochkina, M., Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlates of encoding in novel word learning. Collabra: Psychology ([pre-print, data & scripts](https://osf.io/mg4kr/)) ([paper](https://doi.org/10.1525/collabra.57525))
+
+Ciaccio, L., Bürki, A., & Clahsen, H. (2023). Inter-individual variability in morphological processing: An ERP study on German plurals. Journal of Neurolinguistics. 
 
 
 ## 2022
@@ -136,6 +138,19 @@ Bürki, A., Ernestus, M. & Frauenfelder, U. (2010). Is there only one ‘fenêtr
  
 # Conferences, seminars, workshops
 
+Bürki, A. (2022). On the variability of response times in on-line production experiments. 
+
+Castelli, S., Bürki, A., Jonkers, R., & Popov, S. (2022). The effect of argument structure on the scope of advance planning. ESCoP, Lille, France.
+
+Bürki, A.(2020).On the cognitive architecture of the language production system:The neglected role of usage. Ringvorlesung Kognitionswissenschaft, Institute of Psychology, Humboldt University, Berlin (virtual event).
+
+Bürki, A.(2020). On the cognitive architecture of the language production system: The neglected role of syntagmatic and paradigmatic relationships. Invited talk, Heinrich Heine Universität Düsseldorf.
+
+Bürki, A., Elbuy, S., Madec, S., & Vasishth, S. (2020). What did we learn from forty years of research on semantic interference? A Bayesian meta-analysis. AMLaP, Potsdam, Germany(virtual event).
+
+Elbuy, S.,& Bürki, A. (2020). Semitic root facilitation in picture-word-interference: Evidence from Arabic. AMLaP, Potsdam, Germany(virtual event).
+
+Van den Hoven, E., Alario, F.-X., &Bürki, A.(2020).Do phonological dependencies affect the scope of phonological advance planning? AMLaP, Potsdam, Germany(virtual event).
 
 Jeong, H. & Bürki, A. (2019). The locus of phrase frequency effects in adjective-noun phrase production. ESCoP, Tenerife, Spain.
 
