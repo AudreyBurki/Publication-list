@@ -19,7 +19,7 @@ Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, accepted in pri
 
 ## 2023
 
-Bürki, A. Planning the sound structure of words from a psycholinguistic perspective (2023). In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. ([link to book](https://www.taylorfrancis.com/books/edit/10.4324/9781003145790/language-production-robert-hartsuiker-kristof-strijkers))
+Bürki, A. (2023). Planning the sound structure of words from a psycholinguistic perspective. In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. ([link to book](https://www.taylorfrancis.com/books/edit/10.4324/9781003145790/language-production-robert-hartsuiker-kristof-strijkers))
 
 Korochkina, M., Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlates of encoding in novel word learning. Collabra: Psychology ([pre-print, data & scripts](https://osf.io/mg4kr/)) ([paper](https://doi.org/10.1525/collabra.57525))
 
