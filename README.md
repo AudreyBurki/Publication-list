@@ -138,7 +138,7 @@ Bürki, A., Ernestus, M. & Frauenfelder, U. (2010). Is there only one ‘fenêtr
  
 # Conferences, seminars, workshops
 
-Bürki, A. (2022). On the variability of response times in on-line production experiments. 
+Bürki, A. (2022). On the variability of response times in on-line production experiments. ESCoP, Lille, France.
 
 Castelli, S., Bürki, A., Jonkers, R., & Popov, S. (2022). The effect of argument structure on the scope of advance planning. ESCoP, Lille, France.
 
