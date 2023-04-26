@@ -10,9 +10,11 @@ Prep-prints or links to full paper can be found on this page or on [Researchgate
 
 Vasishth, S., Schad, D.; Bürki, A.; Klieg, R. (work in progress). Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction. ([Bookdown](https://vasishth.github.io/Freq_CogSci/))
 
-Bürki, A. van den Hoven, E., Schiller, N.O., & Dimitrov, N. (submitted). Cross-linguistic differences in gender congruency effects: Evidence from meta-analyses. [pre-print](https://arxiv.org/abs/2109.03490)
 
 ## Available soon
+
+
+Bürki, A. van den Hoven, E., Schiller, N.O., & Dimitrov, N. (in press). Cross-linguistic differences in gender congruency effects: Evidence from meta-analyses. Journal of memory and Language. [pre-print](https://arxiv.org/abs/2109.03490)
 
 Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, accepted in principle). Assessing reliability of word production measures. Journal of Cognition.
 
