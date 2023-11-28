@@ -13,19 +13,23 @@ Vasishth, S., Schad, D.; Bürki, A.; Klieg, R. (work in progress). Linear Mixed 
 
 ## Available soon
 
-
-Bürki, A. van den Hoven, E., Schiller, N.O., & Dimitrov, N. (in press). Cross-linguistic differences in gender congruency effects: Evidence from meta-analyses. Journal of memory and Language. [pre-print](https://arxiv.org/abs/2109.03490)
-
-Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, accepted in principle). Assessing reliability of word production measures. Journal of Cognition.
+Fuhrmeister, P., Elbuy, S., & Bürki, A. (pre-registered report, accepted in principle). Assessing reliability of word production measures. _**Journal of Cognition.
 
 
 ## 2023
 
+Bürki, A. van den Hoven, E., Schiller, N.O., & Dimitrov, N. (2023). Cross-linguistic differences in gender congruency effects: Evidence from meta-analyses. _**Journal of memory and Language**_. [pre-print](https://arxiv.org/abs/2109.03490)
+
+
 Bürki, A. (2023). Planning the sound structure of words from a psycholinguistic perspective. In Eds.: Hartsuiker, R. & Strijkers K. Current issues in the Psychology of Language. Routledge press (Taylor & Francis), UK. ([link to book](https://www.taylorfrancis.com/books/edit/10.4324/9781003145790/language-production-robert-hartsuiker-kristof-strijkers))
 
-Korochkina, M., Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlates of encoding in novel word learning. Collabra: Psychology ([pre-print, data & scripts](https://osf.io/mg4kr/)) ([paper](https://doi.org/10.1525/collabra.57525))
+Korochkina, M., Sowman, P. F., Nickels, L., & Bürki, A. (2023). Neural correlates of encoding in novel word learning. _**Collabra: Psychology**_ ([pre-print, data & scripts](https://osf.io/mg4kr/)) ([paper](https://doi.org/10.1525/collabra.57525))
 
-Ciaccio, L., Bürki, A., & Clahsen, H. (2023). Inter-individual variability in morphological processing: An ERP study on German plurals. Journal of Neurolinguistics. 
+Ciaccio, L., Bürki, A., & Clahsen, H. (2023). Inter-individual variability in morphological processing: An ERP study on German plurals. _**Journal of Neurolinguistics**_. 
+
+Behzadnia, A., Ziegler, J. C., Colenbrander, D., Buerki, A. & Beyersmann, E. (E-pub ahead of print). The role of morphemic knowledge during novel word learning. _**Quarterly Journal of Experimental Psychology**_.
+
+Behzadnia, A., Wegener, S., Bürki, A. & Beyersmann, L. (E-pub ahead of print). The role of oral vocabulary when L2 speakers read novel words: A complex word training study. _**Bilingualism**_. 
 
 
 ## 2022
